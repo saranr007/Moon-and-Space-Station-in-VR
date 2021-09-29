@@ -1,0 +1,8 @@
+H:/Batch7/Assets/ManyWorlds/Space[[:space:]]Station/Sci[[:space:]]Fi[[:space:]]Base/DemoScene/1stPersonDemoScene/LightmapSnapshot.asset filter=lfs diff=lfs merge=lfs -text
+H:/Batch7/Assets/ManyWorlds/Space[[:space:]]Station/Sci[[:space:]]Fi[[:space:]]Base/DemoScene/1stPersonDemoScene/LightmapSnapshot.asset filter=lfs diff=lfs merge=lfs -text
+H:/Batch7/Assets/ManyWorlds/Space[[:space:]]Station/Sci[[:space:]]Fi[[:space:]]Base/Maps/Cubemap/Space.cubemap filter=lfs diff=lfs merge=lfs -text
+*.cubemap filter=lfs diff=lfs merge=lfs -text
+*.asset filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.unity3d filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2208757450
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4aee8ffb95af9074f2f63307dfbbeeb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0ced7672289a595c73b902aab9ec26b8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4444ce35d262aa648ad0c425a559b931, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 017c5e3933235514c9520e1dace2a4b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc1515ab76e54f068e2f2207940fab32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39fa3d8997a24136984ca6e2c99902bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30530ad0e40d0a64ea26d753ee4996ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b34befe5d0cbb642bb5d09104a47160, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/XR Device Simulator/XR Device
+  Simulator.prefab
+- Assets/Prefabs 1/OVRGazePointer.prefab
+- Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
+Dependencies:
+- H:/Batch7/OVRAssetBundles/OVRMasterBundle/asset_inputactions0
+- H:/Batch7/OVRAssetBundles/OVRMasterBundle/asset_png0

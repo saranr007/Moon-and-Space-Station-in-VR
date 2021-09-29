@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3994943633
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfe090920056f1aad485d9d5aa66d8eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Real Stars Skybox/StarSkybox04/StarSkybox044.png
+- Assets/Real Stars Skybox/StarSkybox04/StarSkybox046.png
+- Assets/Real Stars Skybox/StarSkybox04/StarSkybox042.png
+- Assets/Oculus/VR/Textures/GazeRing.png
+- Assets/Real Stars Skybox/StarSkybox04/StarSkybox041.png
+- Assets/Real Stars Skybox/StarSkybox04/StarSkybox045.png
+- Assets/Real Stars Skybox/StarSkybox04/StarSkybox043.png
+Dependencies: []
