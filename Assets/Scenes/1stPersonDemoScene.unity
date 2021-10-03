@@ -1401,8 +1401,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f1a9a1d119a5944aacfb87d1ec283a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rayTransform: {fileID: 0}
-  m_Cursor: {fileID: 0}
+  rayTransform: {fileID: 1766088103}
+  m_Cursor: {fileID: 620873927600813799, guid: 8179cbe7ec1967e4084e75b2cbe7b324, type: 3}
   joyPadClickButton: 1
   gazeClickKey: 32
   performSphereCastForGazepointer: 0
